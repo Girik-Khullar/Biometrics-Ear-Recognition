@@ -5,6 +5,7 @@ __pycache__/
 
 # Dataset Folder
 dataset/
+papers/
 
 # C extensions
 *.so
